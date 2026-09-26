@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1600">
+    <defs>
+      <linearGradient id="shirtG" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#122A31"/>
+        <stop offset=".55" stop-color="#122A31"/>
+        <stop offset="1" stop-color="#0e1012"/>
+      </linearGradient>
+      <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+        <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".18"/>
+      </filter>
+    </defs>
+    <rect width="1600" height="1600" fill="#EEE8DE"/>
+    <ellipse cx="800" cy="1400" rx="500" ry="56" fill="#000" opacity=".10"/>
+    <g filter="url(#shadow)">
+      <path d="M505 260c78-72 183-108 295-108s217 36 295 108l225 130-95 255-151-65v760H526V580l-151 65-95-255z" fill="url(#shirtG)"/>
+      <path d="M640 258c35 69 90 106 160 106s125-37 160-106" fill="none" stroke="#000" stroke-opacity=".22" stroke-width="30"/>
+      <path d="M545 600c58 40 98 106 112 190M1055 600c-58 40-98 106-112 190" fill="none" stroke="#fff" stroke-opacity=".05" stroke-width="18"/>
+      <path d="M590 1270c130 38 290 45 420 0" fill="none" stroke="#fff" stroke-opacity=".04" stroke-width="16"/>
+    </g>
+    <svg x="420" y="410" width="760" height="840" viewBox="0 0 1800 2200" preserveAspectRatio="xMidYMid meet">
+      
+    
+<defs>
+  <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+    <circle cx="5" cy="5" r="3.8" fill="#F0D9B6" opacity=".18"/>
+  </pattern>
+</defs>
+
+<circle cx="900" cy="1030" r="610" fill="#0F2630"/>
+<circle cx="900" cy="1030" r="610" fill="url(#dots)"/>
+
+<!-- layered snow terrain -->
+<path d="M370 1350c210-220 450-245 650-85 145 115 285 120 420 45v300H370z" fill="#E7ECE8"/>
+<path d="M370 1510c250-180 475-175 675-35 140 98 260 110 395 60v190H370z" fill="#6FA1A6"/>
+
+<!-- stylized animal tracks -->
+<g fill="#D97736">
+  <circle cx="635" cy="1270" r="44"/><circle cx="585" cy="1208" r="20"/><circle cx="640" cy="1188" r="20"/><circle cx="695" cy="1210" r="20"/>
+  <circle cx="840" cy="1115" r="42"/><circle cx="792" cy="1057" r="19"/><circle cx="843" cy="1038" r="19"/><circle cx="895" cy="1060" r="19"/>
+  <circle cx="1038" cy="930" r="40"/><circle cx="993" cy="875" r="18"/><circle cx="1041" cy="858" r="18"/><circle cx="1090" cy="878" r="18"/>
+  <circle cx="1195" cy="720" r="38"/><circle cx="1153" cy="668" r="17"/><circle cx="1197" cy="652" r="17"/><circle cx="1242" cy="670" r="17"/>
+</g>
+
+<!-- track line becomes topographic ridge -->
+<path d="M515 1410c120-110 215-190 330-290 125-110 215-205 330-330 85-95 145-165 220-250" fill="none" stroke="#D97736" stroke-width="22" stroke-dasharray="1 38" stroke-linecap="round"/>
+
+<!-- mountain contour lines -->
+<g fill="none" stroke="#E7ECE8" stroke-width="18" opacity=".9">
+  <path d="M420 920c175-260 355-330 540-205 140 95 260 80 420-50"/>
+  <path d="M455 1010c170-220 330-280 500-170 160 105 295 85 410 20"/>
+  <path d="M510 1095c135-165 275-210 420-120 155 95 300 90 425 40"/>
+</g>
+
+<!-- small north star -->
+<path d="M1370 430l18 42 45 5-34 30 10 44-39-23-39 23 10-44-34-30 45-5z" fill="#E7ECE8"/>
+
+    
+    </svg>
+    <text x="800" y="1515" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#666">Silent Tracks</text>
+    </svg>
