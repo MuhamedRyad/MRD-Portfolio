@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2200">
+<defs>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="3.5" fill="#E7D2A3" opacity=".20"/></pattern>
+</defs>
+<circle cx="900" cy="1040" r="610" fill="#24352A"/>
+<circle cx="900" cy="1040" r="610" fill="url(#dots)"/>
+<circle cx="900" cy="780" r="360" fill="#C8752E"/>
+<path d="M540 820h720v380H540z" fill="#1B2420"/>
+<path d="M570 1200h660v90H570z" fill="#E7D2A3"/>
+<!-- mug -->
+<path d="M740 850h270v250c0 84-68 152-152 152s-118-68-118-152z" fill="#E7D2A3"/>
+<path d="M1010 910h80c100 0 100 150 0 150h-80" fill="none" stroke="#E7D2A3" stroke-width="34"/>
+<path d="M790 790c0-75 45-90 45-150M885 790c0-75 45-90 45-150" fill="none" stroke="#E7D2A3" stroke-width="24"/>
+<!-- wrench -->
+<path d="M520 1315 865 970c-34-80-19-170 45-234 52-52 120-73 186-63l-90 90 74 74 90-90c10 66-11 134-63 186-64 64-154 79-234 45L628 1423z" fill="#D95F38"/>
+<!-- ruler -->
+<path d="M790 1370h520v76H790z" fill="#C8752E"/>
+<g stroke="#1B2420" stroke-width="8">
+  <path d="M830 1370v36M890 1370v24M950 1370v36M1010 1370v24M1070 1370v36M1130 1370v24M1190 1370v36M1250 1370v24"/>
+</g>
+<!-- plant -->
+<rect x="1180" y="850" width="170" height="220" rx="18" fill="#E7D2A3"/>
+<g fill="#8FAE6A">
+  <ellipse cx="1250" cy="765" rx="80" ry="40" transform="rotate(-35 1250 765)"/>
+  <ellipse cx="1325" cy="735" rx="80" ry="40" transform="rotate(25 1325 735)"/>
+  <ellipse cx="1285" cy="670" rx="80" ry="40" transform="rotate(-5 1285 670)"/>
+</g>
+<path d="M1280 880V690" stroke="#8FAE6A" stroke-width="20"/>
+</svg>

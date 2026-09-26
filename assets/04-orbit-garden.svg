@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2200">
+    <rect width="1800" height="2200" fill="none"/>
+    
+<defs>
+  <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+    <circle cx="5" cy="5" r="4" fill="#F2D7AD" opacity=".22"/>
+  </pattern>
+</defs>
+
+<circle cx="900" cy="1040" r="610" fill="#0F1F25"/>
+<circle cx="900" cy="1040" r="610" fill="url(#dots)"/>
+<!-- helmet -->
+<circle cx="900" cy="930" r="390" fill="#E7D4B0"/>
+<circle cx="900" cy="930" r="305" fill="#132A31"/>
+<path d="M650 1280h500v260c0 110-90 200-200 200H850c-110 0-200-90-200-200z" fill="#E7D4B0"/>
+<!-- visor garden -->
+<g fill="#6E9B67">
+  <ellipse cx="760" cy="875" rx="120" ry="55" transform="rotate(-28 760 875)"/>
+  <ellipse cx="865" cy="790" rx="125" ry="55" transform="rotate(12 865 790)"/>
+  <ellipse cx="1010" cy="860" rx="125" ry="55" transform="rotate(34 1010 860)"/>
+  <ellipse cx="930" cy="955" rx="120" ry="55" transform="rotate(-10 930 955)"/>
+</g>
+<g fill="#E36F31">
+  <circle cx="820" cy="930" r="38"/><circle cx="1015" cy="760" r="34"/><circle cx="1090" cy="935" r="32"/>
+</g>
+<path d="M900 610c180 0 330 120 390 285" stroke="#4C7F7B" stroke-width="30" fill="none"/>
+<!-- stars -->
+<g fill="#E7D4B0"><circle cx="390" cy="650" r="16"/><circle cx="1380" cy="620" r="12"/><circle cx="1260" cy="1420" r="14"/></g>
+
+    </svg>

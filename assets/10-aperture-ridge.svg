@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2200">
+<defs>
+  <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="4" fill="#F1D8AE" opacity=".22"/></pattern>
+</defs>
+<circle cx="900" cy="1020" r="620" fill="#18262D"/>
+<circle cx="900" cy="1020" r="620" fill="url(#dots)"/>
+<g transform="translate(900 1020)">
+  <path d="M0-560 275-476 476-275 560 0 476 275 275 476 0 560-275 476-476 275-560 0-476-275-275-476Z" fill="#E36F31"/>
+  <circle r="430" fill="#10171B"/>
+  <circle r="330" fill="#F1D8AE"/>
+  <path d="M-325 145-125-80 0 35 125-160 330 145Z" fill="#2C5A5C"/>
+  <path d="M-330 145h660v135h-660z" fill="#10171B"/>
+  <path d="M-270 145-135 30-40 115 60 25 155 120 245 35 330 145Z" fill="#F1D8AE"/>
+  <circle cx="165" cy="-120" r="62" fill="#E36F31"/>
+  <path d="M0-430 94-250-105-291Z" fill="#24363D"/>
+  <path d="M305-305 249-94 98-246Z" fill="#24363D"/>
+  <path d="M430 0 250 94 291-105Z" fill="#24363D"/>
+  <path d="M305 305 94 249 246 98Z" fill="#24363D"/>
+  <path d="M0 430-94 250 105 291Z" fill="#24363D"/>
+  <path d="M-305 305-249 94-98 246Z" fill="#24363D"/>
+  <path d="M-430 0-250-94-291 105Z" fill="#24363D"/>
+  <path d="M-305-305-94-249-246-98Z" fill="#24363D"/>
+</g>
+<g fill="#F1D8AE"><circle cx="420" cy="430" r="16"/><circle cx="1330" cy="520" r="12"/><circle cx="1400" cy="1420" r="15"/></g>
+</svg>

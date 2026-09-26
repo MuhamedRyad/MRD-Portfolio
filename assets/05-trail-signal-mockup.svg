@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1600">
+      <rect width="1600" height="1600" fill="#EAE4DA"/>
+      <path d="M500 250c70-65 180-100 300-100s230 35 300 100l220 130-95 260-150-65v760H525V575l-150 65-95-260z" fill="#2F3B2F"/>
+      <path d="M650 250c30 60 85 95 150 95s120-35 150-95" fill="none" stroke="#111" stroke-opacity=".28" stroke-width="28"/>
+      <image href="05-trail-signal.svg" x="420" y="420" width="760" height="760" preserveAspectRatio="xMidYMid meet"/>
+      <ellipse cx="800" cy="1390" rx="500" ry="52" fill="#000" opacity=".08"/>
+      <text x="800" y="1515" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#666">Trail Signal</text>
+    </svg>

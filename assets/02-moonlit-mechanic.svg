@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2200">
+    <rect width="1800" height="2200" fill="none"/>
+    
+<defs>
+  <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+    <circle cx="5" cy="5" r="4" fill="#F2D7AD" opacity=".22"/>
+  </pattern>
+</defs>
+
+<circle cx="900" cy="1000" r="610" fill="#111B20"/>
+<circle cx="900" cy="1000" r="610" fill="url(#dots)"/>
+<circle cx="900" cy="740" r="330" fill="#E67D33"/>
+<!-- tire -->
+<circle cx="900" cy="1120" r="370" fill="#1B272C" stroke="#E7D2AD" stroke-width="48"/>
+<circle cx="900" cy="1120" r="230" fill="#111B20" stroke="#E67D33" stroke-width="34"/>
+<circle cx="900" cy="1120" r="90" fill="#E7D2AD"/>
+<g stroke="#E7D2AD" stroke-width="34">
+  <path d="M900 890v140"/><path d="M900 1210v140"/><path d="M670 1120h140"/><path d="M990 1120h140"/>
+</g>
+<!-- tools -->
+<path d="M460 1510 825 1145l70 70-365 365z" fill="#4B7D78"/>
+<path d="M1270 1510 975 1215l70-70 295 295z" fill="#4B7D78"/>
+<path d="M430 440c130 60 270 70 410 30" stroke="#E7D2AD" stroke-width="20" fill="none"/>
+<path d="M960 470c150 40 285 18 410-50" stroke="#E7D2AD" stroke-width="20" fill="none"/>
+
+    </svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2200">
+    <rect width="1800" height="2200" fill="none"/>
+    
+<defs>
+  <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+    <circle cx="5" cy="5" r="4" fill="#F2D7AD" opacity=".22"/>
+  </pattern>
+</defs>
+
+<circle cx="900" cy="1040" r="610" fill="#0D2B33"/>
+<circle cx="900" cy="1040" r="610" fill="url(#dots)"/>
+<circle cx="1060" cy="760" r="250" fill="#E37B36"/>
+<!-- wave -->
+<path d="M350 1170c180-310 460-390 700-210 130 96 180 250 130 420-85-130-205-190-360-178-160 12-260 75-370 150-60-40-95-100-100-182z" fill="#73A9A6"/>
+<path d="M470 1200c145-175 315-220 490-135 85 42 145 110 175 205-80-55-165-78-255-66-120 16-205 70-295 125-45-35-80-78-115-129z" fill="#E9D8B5"/>
+<!-- palms -->
+<path d="M1230 1270V870" stroke="#172226" stroke-width="28"/>
+<path d="M1230 900c-100-40-175-35-250 5 95 25 175 45 250 65M1230 930c90-45 170-48 250-10-95 30-175 50-250 70" stroke="#172226" stroke-width="26" fill="none"/>
+
+    </svg>

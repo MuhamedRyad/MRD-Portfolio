@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2200">
+<defs>
+  <pattern id="grain" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="4" fill="#F0D7AA" opacity=".20"/></pattern>
+</defs>
+<circle cx="900" cy="1020" r="610" fill="#162A36"/>
+<circle cx="900" cy="1020" r="610" fill="url(#grain)"/>
+<!-- oven arch -->
+<path d="M470 1050V820c0-245 190-445 430-445s430 200 430 445v230H470z" fill="#B65D33"/>
+<path d="M600 1020V850c0-165 130-300 300-300s300 135 300 300v170H600z" fill="#1A2026"/>
+<path d="M670 900c55-100 145-155 230-155 93 0 187 58 235 155-62-26-124-39-189-39-100 0-191 29-276 39z" fill="#E17334"/>
+<!-- bread -->
+<path d="M500 1270c0-175 170-310 400-310s400 135 400 310c0 105-83 185-185 185H685c-102 0-185-80-185-185z" fill="#E9C07A"/>
+<path d="M740 1020c40 65 53 120 40 176M890 985c35 75 45 138 29 205M1040 1020c28 60 35 115 22 165" fill="none" stroke="#B65D33" stroke-width="28"/>
+<!-- wheat arcs -->
+<g fill="#F0D7AA" stroke="#F0D7AA" stroke-width="10">
+  <path d="M445 1465c-95-310-50-590 98-790" fill="none"/>
+  <path d="M1355 1465c95-310 50-590-98-790" fill="none"/>
+  <ellipse cx="470" cy="1280" rx="32" ry="78" transform="rotate(-35 470 1280)"/>
+  <ellipse cx="450" cy="1160" rx="32" ry="78" transform="rotate(-28 450 1160)"/>
+  <ellipse cx="455" cy="1040" rx="32" ry="78" transform="rotate(-15 455 1040)"/>
+  <ellipse cx="1330" cy="1280" rx="32" ry="78" transform="rotate(35 1330 1280)"/>
+  <ellipse cx="1350" cy="1160" rx="32" ry="78" transform="rotate(28 1350 1160)"/>
+  <ellipse cx="1345" cy="1040" rx="32" ry="78" transform="rotate(15 1345 1040)"/>
+</g>
+</svg>

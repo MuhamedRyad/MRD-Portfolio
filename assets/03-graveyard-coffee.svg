@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2200">
+    <rect width="1800" height="2200" fill="none"/>
+    
+<defs>
+  <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+    <circle cx="5" cy="5" r="4" fill="#F2D7AD" opacity=".22"/>
+  </pattern>
+</defs>
+
+<circle cx="900" cy="1040" r="610" fill="#201A18"/>
+<circle cx="900" cy="1040" r="610" fill="url(#dots)"/>
+<path d="M1080 420c-220 70-355 280-305 488 38 160 165 285 330 325-60 35-130 55-205 55-255 0-462-207-462-462 0-220 154-405 360-451 95-22 192-5 282 45z" fill="#E58A3C"/>
+<!-- mug -->
+<path d="M575 1080h520v420c0 120-98 218-218 218h-84c-120 0-218-98-218-218z" fill="#E8D4B3"/>
+<path d="M1095 1160h110c150 0 150 220 0 220h-110" fill="none" stroke="#E8D4B3" stroke-width="36"/>
+<path d="M680 1040c0-90 50-120 50-205M825 1040c0-90 50-120 50-205M970 1040c0-90 50-120 50-205" fill="none" stroke="#E58A3C" stroke-width="24"/>
+<!-- graveyard -->
+<g fill="#121213">
+  <rect x="350" y="1450" width="180" height="260" rx="18"/><path d="M350 1450c0-80 180-80 180 0" fill="#121213"/>
+  <rect x="1270" y="1420" width="180" height="290" rx="18"/><path d="M1270 1420c0-80 180-80 180 0" fill="#121213"/>
+  <rect x="470" y="1510" width="950" height="210"/>
+</g>
+<!-- tiny bats -->
+<path d="M500 700c55-40 95-40 150 0 55-40 95-40 150 0-40-10-75 10-150 70-75-60-110-80-150-70z" fill="#121213"/>
+
+    </svg>
